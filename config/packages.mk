@@ -18,13 +18,13 @@ PRODUCT_PACKAGES += \
 
 # Additional apps
 PRODUCT_PACKAGES += \
-    Launcher3 \
     Quarks \
     Substratum \
     ThemeInterfacer \
     OmniStyle \
     VanillaMusic \
-    Turbo
+    Turbo \
+    magisk
 
 # Custom off-mode charger
 ifneq ($(WITH_CM_CHARGER),false)

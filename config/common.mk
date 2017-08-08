@@ -66,6 +66,10 @@ PRODUCT_COPY_FILES += \
     vendor/carbon/prebuilt/bin/50-hosts.sh:system/addon.d/50-hosts.sh \
     vendor/carbon/prebuilt/bin/blacklist:system/addon.d/blacklist
 
+# Copy Magisk zip
+PRODUCT_COPY_FILES += \
+    vendor/carbon/prebuilt/zip/magisk.zip:system/addon.d/magisk.zip
+
 # init.d support
 PRODUCT_COPY_FILES += \
     vendor/carbon/prebuilt/etc/init.d/00banner:system/etc/init.d/00banner \

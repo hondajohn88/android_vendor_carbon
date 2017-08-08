@@ -68,6 +68,7 @@ add_lunch_combo carbon_potter-user
 add_lunch_combo carbon_potter-userdebug
 add_lunch_combo carbon_sailfish-user
 add_lunch_combo carbon_sailfish-userdebug
+add_lunch_combo carbon_scorpio-userdebug
 add_lunch_combo carbon_shamu-user
 add_lunch_combo carbon_shamu-userdebug
 add_lunch_combo carbon_shieldtablet-user
